@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Ankaj%20Kumar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=QA%20Automation%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=260&section=header&text=Ankaj%20Kumar&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=QA%20Automation%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/ankajkumar261">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+Selenium+%2B+Java+test+automation+frameworks;Automating+REST+APIs+with+REST+Assured+%26+TestNG;Cutting+testing+cycle+time+by+40%25+with+Jenkins+CI%2FCD;Exploring+AI-assisted+QA+workflows+with+n8n" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=Building+Selenium+%2B+Java+test+automation+frameworks;Automating+REST+APIs+with+REST+Assured+%26+TestNG;Cutting+testing+cycle+time+by+40%25+with+Jenkins+CI%2FCD;Exploring+AI-assisted+QA+workflows+with+n8n" alt="Typing SVG" />
 </a>
 
 <br/>
