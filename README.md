@@ -121,7 +121,7 @@ Complete API test automation framework for a hotel booking application, covering
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankajkumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankaj-kumar-731a151244?utm_source=share_vai&utm_con-tent=profile&utm_medium=mem-ber_ios)
 [![Email](https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ankajkumar261@gmail.com)
 
 </div>
